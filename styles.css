@@ -46,7 +46,7 @@ a:visited {
 @media (max-width: 460px) {
 	#main {
 		margin: 0;
-	}	
+	}
 }
 
 img {
@@ -57,7 +57,7 @@ img {
 }
 
 #img-div {
-	background: white;
+	/* background: white; */
 	padding: 10px;
 	margin: 0;
 }
@@ -82,13 +82,13 @@ ul {
 	margin: 0 auto 50px auto;
 	text-align: left;
 	line-height: 1.6;
-	
+
 }
 
 li {
 	margin: 16px 0;
 	text-align: justify;
-	
+
 }
 
 blockquote {
@@ -96,5 +96,5 @@ blockquote {
 	max-width: 545px;
 	margin: 0 auto 50px auto;
 	text-align: justify;
-	
+
 }
